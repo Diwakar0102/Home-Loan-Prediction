@@ -37,5 +37,3 @@ The dataset contains applicant details such as:
 Install dependencies using:  
 ```bash
 pip install -r requirements.txt
-
-✨ Author: Diwakar Kumar
